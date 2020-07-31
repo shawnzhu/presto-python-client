@@ -19,7 +19,6 @@ jobs:
         - "3.5"
         - "3.6"
         - "3.7"
-        - "pypy3.6-7.0.0"
     env:
       PRESTO_VERSION: 0.202
   
